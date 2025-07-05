@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogeshwar Kumar</h1>
-<h3 align="center">16-year-old Developer | AI Tools Creator | Mozilla Approved</h3>
+<h3 align="center">16-year-old Developer | AI Tools Creator | Mozilla Approved | Edge</h3>
 
 
 
